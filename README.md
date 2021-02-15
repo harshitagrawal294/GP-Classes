@@ -14,4 +14,5 @@ The project aims to make a website for managing the operations of the institute.
  
 - [Detailed Client Requirements](Requirements.pdf) can be found here.
 - The website is deployed at https://gpclasses.herokuapp.com/
+- A video demonstration is available at https://www.youtube.com/watch?v=0GZKiVC5nS8
 
